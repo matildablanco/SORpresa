@@ -10,9 +10,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Alberto López
+- :woman: Matilda Blanco
+- :woman: Olga López
 
 
 Proyecto (código): 
