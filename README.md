@@ -33,8 +33,7 @@ Monjas de Belorado desempeñan su actividad con normalidad y viven en armonía c
 
 ### Personaje
 
-![](<img width="1024" height="1265" alt="Sorpresa" src="https://github.com/user-attachments/assets/8ab72259-18cc-4d24-9ea8-1461b61186c6" />
-)
+- <img width="1024" height="1265" alt="Sorpresa" src="https://github.com/user-attachments/assets/a2ed8dc9-931a-4acd-94d3-df9668533792" />
 
 Nombre: 
 Sor Presa
