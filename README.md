@@ -13,6 +13,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :man: Alberto López
 - :woman: Matilda Blanco
 - :woman: Olga López
+- :woman: Paula Navas 
 
 
 Proyecto (código): 
